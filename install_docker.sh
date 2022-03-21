@@ -22,3 +22,4 @@ add-apt-repository \
 apt-get update
 
 apt-get -y install docker-ce
+apt-get -y install docker-compose
