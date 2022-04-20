@@ -155,3 +155,9 @@ apt-get -y install docker-compose
 배포 환경에서 생기는 `.swp`, `.swn` 등 git repository 에 upload 되지 않길 바라는 대상에 대해서 무시되도록 설정합니다.
 
 ## 실행 설명
+
+해당 repository 를 clone 합니다.
+
+`git clone https://github.com/jgm0710/jenkins-docker.git`
+
+
