@@ -118,7 +118,9 @@ ubuntu local pc 의 `/applicadtion` directory 와 jenkins container 의 `/applic
 
 ### install_docker.sh
 
-jenkins image build 시 
+jenkins image build 시 jenkins 내부적으로 사용할 프로그램들을 함께 install 하기 위한 실행 파일입니다.
+
+docker, docker-compose 등을 설치합니다.
 
 ```
 #!/bin/sh
@@ -149,5 +151,7 @@ apt-get -y install docker-compose
 ```
 
 ### .gitignore
+
+배포 환경에서 생기는 `.swp`, `.swn` 등 git repository 에 upload 되지 않길 바라는 대상에 대해서 무시되도록 설정합니다.
 
 ## 실행 설명
