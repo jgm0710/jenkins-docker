@@ -164,6 +164,21 @@ jenkins-docker directory 가 생성되었다면 해당 directory 로 이동합�
 
 <img width="698" alt="스크린샷 2022-04-21 오후 3 02 27" src="https://user-images.githubusercontent.com/62986636/164385414-e121ec75-d431-4ea4-9715-0f09426c19be.png">
 
+docker ps 명령어를 사용하여 실행 중인 container 가 있는지 확인할 수 있습니다.
+
+docker-compose up -d 명령어를 사용하여 docker-compose.yml 파일을 실행합니다.
+
+ubuntu pc 에 docker-compose 실행 파일이 없는 경우 다음과 같은 안내가 나타납니다.
+
+<img width="698" alt="스크린샷 2022-04-21 오후 3 03 21" src="https://user-images.githubusercontent.com/62986636/164385874-6b07fc09-4e9a-4f8b-9326-dfdabc91dba4.png">
+
+권장하는 apt install 명렁어를 사용하여 docker-compose 를 download 해 줍니다.
+
+```
+sudo apt install docker-compose
+```
+
+<img width="1130" alt="스크린샷 2022-04-21 오후 3 03 31" src="https://user-images.githubusercontent.com/62986636/164385918-9297d567-4ceb-4060-9482-47fe735e19b5.png">
 
 
 
