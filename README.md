@@ -234,7 +234,7 @@ Install suggested plugins 를 선택하여 기본적인 plugin 들을 모두 설
 <img width="1007" alt="스크린샷 2022-04-21 오후 3 46 21" src="https://user-images.githubusercontent.com/62986636/164391661-8e60e936-d359-4105-8e71-45028e9e0f95.png">
 
 
-<img width="1007" alt="스크린샷 2022-04-21 오후 3 49 50" src="https://user-images.githubusercontent.com/62986636/164391689-6eb57d60-5d52-4234-b2d9-3666538e06fe.png">
+<img width="1007" alt="스크린샷 2022-04-21 오후 3 49 50" src="https://user-images.githubusercontent.com/62986636/164391978-1608f58c-66db-4c15-aa23-9c73f90fc738.png">
 
 
 <img width="1007" alt="스크린샷 2022-04-21 오후 3 49 56" src="https://user-images.githubusercontent.com/62986636/164391705-14cdf65b-8422-4fe7-9c98-77ea69934874.png">
