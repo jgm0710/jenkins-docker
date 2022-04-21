@@ -160,4 +160,11 @@ apt-get -y install docker-compose
 
 `git clone https://github.com/jgm0710/jenkins-docker.git`
 
+jenkins-docker directory 가 생성되었다면 해당 directory 로 이동합니다.
+
+<img width="698" alt="스크린샷 2022-04-21 오후 3 02 27" src="https://user-images.githubusercontent.com/62986636/164385414-e121ec75-d431-4ea4-9715-0f09426c19be.png">
+
+
+
+
 
