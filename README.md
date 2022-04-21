@@ -229,8 +229,17 @@ docker logs jenkins
 Install suggested plugins 를 선택하여 기본적인 plugin 들을 모두 설치해 줍니다.
 
 
+<img width="1007" alt="스크린샷 2022-04-21 오후 3 18 11" src="https://user-images.githubusercontent.com/62986636/164391486-138edea0-d63a-47ee-aefa-85023263bd00.png">
+
+<img width="1007" alt="스크린샷 2022-04-21 오후 3 46 21" src="https://user-images.githubusercontent.com/62986636/164391661-8e60e936-d359-4105-8e71-45028e9e0f95.png">
 
 
+<img width="1007" alt="스크린샷 2022-04-21 오후 3 49 50" src="https://user-images.githubusercontent.com/62986636/164391689-6eb57d60-5d52-4234-b2d9-3666538e06fe.png">
 
+
+<img width="1007" alt="스크린샷 2022-04-21 오후 3 49 56" src="https://user-images.githubusercontent.com/62986636/164391705-14cdf65b-8422-4fe7-9c98-77ea69934874.png">
+
+
+<img width="1512" alt="스크린샷 2022-04-21 오후 3 50 02" src="https://user-images.githubusercontent.com/62986636/164391715-572e2378-3aed-496f-b5e3-aced3371e54b.png">
 
 
