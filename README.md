@@ -226,7 +226,10 @@ docker logs jenkins
 
 <img width="691" alt="스크린샷 2022-04-21 오후 3 17 51" src="https://user-images.githubusercontent.com/62986636/164388499-36d38f3c-c823-40fd-ac29-06716fbddef1.png">
 
-Install suggested plugins 
+Install suggested plugins 를 선택하여 기본적인 plugin 들을 모두 설치해 줍니다.
+
+
+
 
 
 
