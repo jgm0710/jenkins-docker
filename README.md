@@ -226,22 +226,26 @@ docker logs jenkins
 
 <img width="691" alt="스크린샷 2022-04-21 오후 3 17 51" src="https://user-images.githubusercontent.com/62986636/164388499-36d38f3c-c823-40fd-ac29-06716fbddef1.png">
 
-Install suggested plugins 를 선택하여 기본적인 plugin 들을 모두 설치해 줍니다.
-
+`Install suggested plugins` 를 선택하여 기본적인 plugin 들을 모두 설치해 줍니다.
 
 <img width="1007" alt="스크린샷 2022-04-21 오후 3 18 11" src="https://user-images.githubusercontent.com/62986636/164391486-138edea0-d63a-47ee-aefa-85023263bd00.png">
 
-
+관리자 계정을 생성하기 위해 계정 정보를 입력해 줍니다.
 
 <img width="1007" alt="스크린샷 2022-04-21 오후 3 46 21" src="https://user-images.githubusercontent.com/62986636/164391661-8e60e936-d359-4105-8e71-45028e9e0f95.png">
 
+`Jenkins URL` 의 경우 jenkins container 가 실행 중인 host 와 port 정보를 기반으로 자동으로 들어가 있습니다.
+
+건드리지 않고 다음으로 넘어갑니다.
 
 <img width="1007" alt="스크린샷 2022-04-21 오후 3 49 50" src="https://user-images.githubusercontent.com/62986636/164391978-1608f58c-66db-4c15-aa23-9c73f90fc738.png">
 
+`Start using Jenkins` 를 눌러 Jenkins 를 시작합니다.
 
 <img width="1007" alt="스크린샷 2022-04-21 오후 3 49 56" src="https://user-images.githubusercontent.com/62986636/164391705-14cdf65b-8422-4fe7-9c98-77ea69934874.png">
 
+완료되었습니다. 이제 새로운 Item 을 등록하여 build 구성을 만들어주면 됩니다.
 
 <img width="1512" alt="스크린샷 2022-04-21 오후 3 50 02" src="https://user-images.githubusercontent.com/62986636/164391715-572e2378-3aed-496f-b5e3-aced3371e54b.png">
 
-
+Jenkins Item setting 은 아래 notion link 에서 설명합니다.
